@@ -25,6 +25,21 @@
     
     php artisan serve
 
+
+### Access Live (Online)
+    
+    http://203.194.113.64:8081/
+
+
+### Credentials
+    
+    email: alex@email.com
+    pass: alex12345678
+
+    email: jimmy@email.com
+    pass: jimmy12345678
+
+
 ### API
     
     1. [GET] http://localhost:8000/post/only/get => No Auth
