@@ -1,7 +1,7 @@
 # demo-store
 
 ## Features
-- Laravel
+- Laravel 10.x
 
 ## Installation & Running Project
 
